@@ -1,27 +1,27 @@
-bank,card name,cashback,condition,inclusions,source,last checked,comments
-NBB,Visa Infinite,0%,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
-NBB,Visa Signature,0%,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
-NBB,Gold,0%,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
-NBB,Titanium,0%,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
-NBB,Platinum,0%,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
-NBB,Prepaid,0%,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
-Credimax,World Elite (Infinite),0.80%,,,https://www.credimax.com.bh/en/card/thameen_faq,19-Apr-20,2 points/BD x 4 fils/point
-Credimax,World (Signature),0.53%,,,https://www.credimax.com.bh/en/card/thameen_faq,19-Apr-20,1.33 points/BD x 4 fils/point
-Credimax,Platinum,0.40%,,,https://www.credimax.com.bh/en/card/thameen_faq,19-Apr-20,1point/BD x 4 fils/point
-Credimax,Gold,0.27%,,,https://www.credimax.com.bh/en/card/thameen_faq,19-Apr-20,0.67point/BD x 4 fils/point
-Credimax,Classic,0.20%,,,https://www.credimax.com.bh/en/card/thameen_faq,19-Apr-20,0.5point/BD x 4 fils/point
-Meem,Platinum,1%,SPENDING < 500,,https://bh.meem.com/credit-card/,19-Apr-20,
-Meem,Platinum,2%,SPENDING > 500 AND SPENDING < 1000,,https://bh.meem.com/credit-card/,19-Apr-20,
-Meem,Platinum,3%,SPENDING > 1000,,https://bh.meem.com/credit-card/,19-Apr-20,
-Ithmaar Bank,eCard,0%,,"Fuel Stations, Charities",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,
-Ithmaar Bank,eCard,0.20%,,"Education, Government, Fast food chains, taxis, parking lots, theaters, car wash companies, laundry services, coffee shops, and other similar small-ticket purchases",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.14point/BD x 15 fils/point
-Ithmaar Bank,eCard,0.37%,,General transactions,https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.25point/BD x 15 fils/point
-Ithmaar Bank,Titanium,0%,,"Fuel Stations, Charities",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,
-Ithmaar Bank,Titanium,0.20%,,"Education, Government, Fast food chains, taxis, parking lots, theaters, car wash companies, laundry services, coffee shops, and other similar small-ticket purchases",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.14point/BD x 15 fils/point
-Ithmaar Bank,Titanium,0.50%,,General transactions,https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.33point/BD x 15 fils/point
-Ithmaar Bank,Platinum,0%,,"Fuel Stations, Charities",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,
-Ithmaar Bank,Platinum,0.25%,,"Education, Government, Fast food chains, taxis, parking lots, theaters, car wash companies, laundry services, coffee shops, and other similar small-ticket purchases",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.17point/BD x 15 fils/point
-Ithmaar Bank,Platinum,0.75%,,General transactions,https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.5point/BD x 15 fils/point
-Ithmaar Bank,World,0%,,"Fuel Stations, Charities",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,
-Ithmaar Bank,World,0.31%,,"Education, Government, Fast food chains, taxis, parking lots, theaters, car wash companies, laundry services, coffee shops, and other similar small-ticket purchases",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.21point/BD x 15 fils/point
-Ithmaar Bank,World,1%,,General transactions,https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.67point/BD x 15 fils/point
+bank,card name,cashback,cap,condition,inclusions,source,last checked,comments
+NBB,Visa Infinite,0%,,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
+NBB,Visa Signature,0%,,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
+NBB,Gold,0%,,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
+NBB,Titanium,0%,,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
+NBB,Platinum,0%,,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
+NBB,Prepaid,0%,,,,https://www.nbbonline.com/en/personal/cards/credit-cards,19-Apr-20,
+Credimax,World Elite (Infinite),0.80%,,,,https://www.credimax.com.bh/en/card/thameen_faq,19-Apr-20,2 points/BD x 4 fils/point
+Credimax,World (Signature),0.53%,,,,https://www.credimax.com.bh/en/card/thameen_faq,19-Apr-20,1.33 points/BD x 4 fils/point
+Credimax,Platinum,0.40%,,,,https://www.credimax.com.bh/en/card/thameen_faq,19-Apr-20,1point/BD x 4 fils/point
+Credimax,Gold,0.27%,,,,https://www.credimax.com.bh/en/card/thameen_faq,19-Apr-20,0.67point/BD x 4 fils/point
+Credimax,Classic,0.20%,,,,https://www.credimax.com.bh/en/card/thameen_faq,19-Apr-20,0.5point/BD x 4 fils/point
+Meem,Platinum,1%,50,SPENDING < 500,,https://bh.meem.com/credit-card/,19-Apr-20,
+Meem,Platinum,2%,50,SPENDING > 500 AND SPENDING < 1000,,https://bh.meem.com/credit-card/,19-Apr-20,
+Meem,Platinum,3%,50,SPENDING > 1000,,https://bh.meem.com/credit-card/,19-Apr-20,
+Ithmaar Bank,eCard,0%,,,"Fuel Stations, Charities",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,
+Ithmaar Bank,eCard,0.20%,,,"Education, Government, Fast food chains, taxis, parking lots, theaters, car wash companies, laundry services, coffee shops, and other similar small-ticket purchases",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.14point/BD x 15 fils/point
+Ithmaar Bank,eCard,0.37%,,,General transactions,https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.25point/BD x 15 fils/point
+Ithmaar Bank,Titanium,0%,,,"Fuel Stations, Charities",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,
+Ithmaar Bank,Titanium,0.20%,,,"Education, Government, Fast food chains, taxis, parking lots, theaters, car wash companies, laundry services, coffee shops, and other similar small-ticket purchases",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.14point/BD x 15 fils/point
+Ithmaar Bank,Titanium,0.50%,,,General transactions,https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.33point/BD x 15 fils/point
+Ithmaar Bank,Platinum,0%,,,"Fuel Stations, Charities",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,
+Ithmaar Bank,Platinum,0.25%,,,"Education, Government, Fast food chains, taxis, parking lots, theaters, car wash companies, laundry services, coffee shops, and other similar small-ticket purchases",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.17point/BD x 15 fils/point
+Ithmaar Bank,Platinum,0.75%,,,General transactions,https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.5point/BD x 15 fils/point
+Ithmaar Bank,World,0%,,,"Fuel Stations, Charities",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,
+Ithmaar Bank,World,0.31%,,,"Education, Government, Fast food chains, taxis, parking lots, theaters, car wash companies, laundry services, coffee shops, and other similar small-ticket purchases",https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.21point/BD x 15 fils/point
+Ithmaar Bank,World,1%,,,General transactions,https://www.ithmaarbank.com/ithmaar-rewards,19-Apr-20,0.67point/BD x 15 fils/point
